@@ -1,4 +1,4 @@
-### **選擇設備**
+### **选择设备**
 
 
 |   [安卓](安卓.md)   |   [IOS ](IOS.md)   |   [Windows ](Windows.md)   |   [Mac](Mac.md)   |
